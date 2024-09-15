@@ -10,7 +10,7 @@ const Footer = () => {
   >
     Made with ♥ by{" "}
     <a
-      href="https://www.youtube.com/roadsidecoder"
+      href="https://github.com/sumanthgubbala"
       style={{ cursor: "pointer" }}
     >
       Sumanth 
